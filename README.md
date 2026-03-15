@@ -92,5 +92,4 @@ Thông qua bài Lab này, em đã thực hành:
 Em xin cảm ơn thầy đã xem bài của em.
 
 ## 🎥 Demo Video
-
-<video src="./demo-video/video-demo_2BTtKlie.mp4" controls width="700"></video>
+https://youtu.be/COqKtYResqc
